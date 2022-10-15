@@ -1,0 +1,15 @@
+.navbar .navbar-expand-lg .navbar-dark .bg-dark{
+    background-color: rgb(71, 5, 11);
+    color: #fff;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    background-color: rgb(71, 5, 11);;
+}
+
+/* .carousel {
+    width: 70rem;
+    height:30rem;
+  } */
+
